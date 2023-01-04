@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApp1</string>
+    <string name="name_solicitud">Escribe tu nombre</string>
+</resources>

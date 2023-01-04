@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prueba de String</string>
+    <string name="introduccion">este es otro texto</string>
+</resources>
